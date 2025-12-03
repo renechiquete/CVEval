@@ -1,10 +1,11 @@
-CV Evaluator 1.0 — Local Run Guide
+CV Evaluator 1.0 — Compare your CV against any role or job posting and get how well you match against its requirements, as well as suggestions for courses to take to close the skill gaps.
 
 Copyright 2025 **Rene Chiquete Elizalde.**
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 LinkedIn: https://www.linkedin.com/in/renechiquete/ 
 
+This is a web app made in Python to be executed in Flask, you will likely need to modify it to run in on other framework.
 Follow these steps to run the app locally from the unzipped folder.
 
 ## Prerequisites
